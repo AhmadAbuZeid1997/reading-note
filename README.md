@@ -11,3 +11,5 @@ Growth mindset is the process that make your knowlage better and wider, more cle
 - [ ] task1
 - [ ] task2
 * ......ect 
+To know more about growth mindset [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+My name ahmad abu zeid, I am 24 years old, fresh graduated mechanical engineer, hardworker, and always positive.
