@@ -8,6 +8,6 @@ Growth mindset is the process that make your knowlage better and wider, more cle
 * Imagine your self success.
 * Put Reword for your self in end of each step.
 * Make scheme
--[ ] task1
--[ ] task2
+- [ ] task1
+- [ ] task2
 * ......ect 
