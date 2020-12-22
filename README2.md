@@ -11,7 +11,7 @@ there are general formula for HTML code page as introdution, DOCTYPE that make i
 | Command | Function |
 | ------- | -------- |
 | "<!----#--->" | comment |
-| <div> or <span> | block-level and inline elements to gather |
-| <if rames> | cut windows |
-| <meta> | supply inforation about your page |
+| "<div> or <span>" | block-level and inline elements to gather |
+| "<if rames>" | cut windows |
+| "<meta>" | supply inforation about your page |
 don't use special characters in your pages.
