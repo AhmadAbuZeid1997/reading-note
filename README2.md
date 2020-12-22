@@ -14,4 +14,4 @@ there are general formula for HTML code page as introdution, DOCTYPE that make i
 | "<#div> or <#span>" | block-level and inline elements to gather |
 | "<#if rames>" | cut windows |
 | "<#meta>" | supply inforation about your page |
-don't use special characters in your pages and the hash tach for explain just.
+don't use special characters in your pages and the hashtag for explain just.
