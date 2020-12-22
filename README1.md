@@ -1,11 +1,3 @@
-# Table of Content 
-1. Markdown
-   - syntax
-2. Video
-3. Basic writing and formatting syntax
-
-
-
 
 
 # [ Markdown](https://guides.github.com/features/mastering-markdown/)
