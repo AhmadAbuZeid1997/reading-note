@@ -9,3 +9,5 @@
 | JavaScript introduction |[click here](https://ahmadabuzeid1997.github.io/reading-note/README3) |
 | JavaScript example |[click here](https://ahmadabuzeid1997.github.io/Class-06-JS/index1) |
 | How Computer Works |[click here](https://ahmadabuzeid1997.github.io/reading-note/README4) |
+| Introduction |[click here](https://ahmadabuzeid1997.github.io/reading-note/README5) |
+| Loops |[click here](https://ahmadabuzeid1997.github.io/reading-note/README6) |
