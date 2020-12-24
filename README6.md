@@ -3,7 +3,7 @@
 ## Evaluating conditions
 Is logical sign compare between variables, and the result true or fules
 
-![photo](https://5a9043b8-a-62cb3a1a-s-sites.googlegroups.com/site/progammingguidec/data-type-and-operators/rational-and-logical-operators/hjgkj.njm.jpg?attachauth=ANoY7crdy5YH1RfdExJ5BkCP4hjtLcLFsnjm4QtrAxj4UwCCirEH4WZvruGYJJEQKUTHbC1ECRryLlJIh1gRL6jbl8-ikLlBvJ-XDEIjUYNz8PmCzQAqL1dwizIHjckp4FiwK5JFBw7I0hWmfs_1sRzHQPnvcVC8jfBrkSjwLSueA2fwWFpXH8gbyUMiORYi9yYEpA-otO_mr6jt0YLffhQethhgnzAqrIjyDb2LV8-31bJn6VrFplBDld7QqD_xISXGwtkp1cePAJihOhU80pgoy2BKVOANYV5sTzkp-Vk8ocGa-9IT3Vk%3D&attredirects=0)
+![photo](http://java.meritcampus.com/core-java-topics/images/Logical-Operators.png)
 
 * Equal to " == " to see if are the same.
 * Is not equal to " != " to see if they are not the same.
