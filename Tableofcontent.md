@@ -11,3 +11,4 @@
 | How Computer Works |[click here](https://ahmadabuzeid1997.github.io/reading-note/README4) |
 | Introduction |[click here](https://ahmadabuzeid1997.github.io/reading-note/README5) |
 | Loops |[click here](https://ahmadabuzeid1997.github.io/reading-note/README6) |
+| CSS Introduction |[click here](https://ahmadabuzeid1997.github.io/reading-note/README7) |
