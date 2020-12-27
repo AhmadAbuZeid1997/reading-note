@@ -4,7 +4,7 @@ P{declaration}
 Where P is selector
 * we can use CSS external the HTML code page or internal it by <style>
 here some selector
-[photo](https://i.pinimg.com/564x/bc/97/96/bc97965579512f8a6d2303934f599c65.jpg)
+![photo](https://i.pinimg.com/564x/bc/97/96/bc97965579512f8a6d2303934f599c65.jpg)
 
 # Color
 * Color is make the page more attractive, so to change color of the text (foreground color) use 'color' command, but to change background color use 'background-color'.
